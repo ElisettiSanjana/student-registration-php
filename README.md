@@ -42,3 +42,5 @@ php-project/
 - Bootstrap 5 responsive design
 - MVC-style code organization
 - Input sanitization with `htmlspecialchars()`
+- <img width="1866" height="943" alt="image" src="https://github.com/user-attachments/assets/659e3ed8-d004-4002-8b98-fc2951c642bf" />
+
